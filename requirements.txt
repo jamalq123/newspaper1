@@ -4,6 +4,5 @@ googletrans==4.0.0rc1
 nltk==3.8.1
 google-generativeai==0.3.2
 requests==2.31.0
-requests.exceptions==
 gtts==2.5.1
 os
