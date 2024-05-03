@@ -4,7 +4,7 @@ from gtts import gTTS
 import os
 from textblob import TextBlob
 import requests
-#from requests.exceptions import RequestException
+from requests.exceptions import RequestException
 import nltk
 
 # Download 'punkt' tokenizer if not already downloaded
